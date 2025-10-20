@@ -1,8 +1,11 @@
 # Olá, eu sou a Vanessa! 👋
 
 ## 📊 Analista de Dados
-Sou biomédica formada com mais de dez anos de experiência na área hospitalar e atualmente estou no processo de transição de carreira para área de dados, buscando meu primeiro emprego na área de tecnologia :)
-Estou criando esse portifólio para compartilhar o meu aprendizado ao longo dessa nova fase da minha vida e estou muito empolgada, portanto, seja bem vinde!
+Olá! Sou biomédica com mais de dez anos de experiência na área hospitalar e atualmente estou em processo de transição de carreira para a área de dados, buscando minha primeira oportunidade na tecnologia. :)
+
+Estou criando este portfólio para compartilhar minha jornada de aprendizado nesta nova fase da minha vida. Estou muito empolgada e motivada!
+
+Seja bem-vinde!
 
 Aqui você encontra meus projetos de análise de dados.
 
