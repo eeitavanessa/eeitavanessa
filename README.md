@@ -19,31 +19,31 @@ Aqui você encontra meus projetos de análise de dados.
 
 ## 📈 Projetos em Destaque
 
-### Análise de Dados das Cartas Constituintes de 1988 
+Análise de Dados das Cartas Constituintes de 1988 
 *Análise de padrões temáticos e distribuição geográfica nas cartas da Assembleia Nacional Constituinte de 1988 utilizando Python e técnicas de NLP
 (https://github.com/eeitavanessa/dados-constituinte-1988)
 
-###📖 Sobre o Projeto
+📖 Sobre o Projeto
 Este projeto de análise de dados tem como objetivo investigar e desvendar os processos, debates e atores envolvidos na Assembleia Nacional Constituinte de 1987-1988, que resultou na promulgação da Constituição Federal do Brasil.
 
 Através de técnicas de Ciência de Dados e Análise Exploratória de Dados (EDA), este trabalho busca transformar informações históricas brutas em insights acionáveis, oferecendo uma nova perspectiva quantitativa sobre um dos eventos mais importantes da história democrática recente do Brasil.
 
-###🛠️ Metodologia e Tecnologias
+🛠️ Metodologia e Tecnologias
 Este projeto foi desenvolvido utilizando uma stack moderna de ciência de dados:
 
 Linguagem: Python
 
-###Principais Bibliotecas:
+Principais Bibliotecas:
 
-Pandas & NumPy: Para manipulação e análise de dados.
+- Pandas & NumPy: Para manipulação e análise de dados.
 
-Matplotlib & Seaborn & Plotly: Para criação de visualizações estáticas e interativas.
+- Matplotlib & Seaborn & Plotly: Para criação de visualizações estáticas e interativas.
 
-Scikit-learn (sklearn): Para possíveis aplicações de Machine Learning (ex: clusterização de temas).
+- Scikit-learn (sklearn): Para possíveis aplicações de Machine Learning (ex: clusterização de temas).
 
-NLTK ou spaCy: Para Processamento de Linguagem Natural (PLN) na análise de discursos.
+- NLTK ou spaCy: Para Processamento de Linguagem Natural (PLN) na análise de discursos.
 
-Ambiente: Jupyter Notebook para desenvolvimento interativo e documentação do processo analítico.
+- Ambiente: Jupyter Notebook para desenvolvimento interativo e documentação do processo analítico.
 
 
 ## 📫 Como me encontrar
@@ -53,4 +53,4 @@ Ambiente: Jupyter Notebook para desenvolvimento interativo e documentação do p
 ---
 ⭐ Fique à vontade para explorar meus projetos!
 
--->
+
