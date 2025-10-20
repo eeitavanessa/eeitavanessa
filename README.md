@@ -49,8 +49,10 @@ Principais Bibliotecas:
 ## 📫 Como me encontrar
 - LinkedIn: https://www.linkedin.com/in/eitavanessa/
 - Email: eeitavanessa@gmail.com
+- Instagram: https://www.instagram.com/eeitavanessa
 
 ---
 ⭐ Fique à vontade para explorar meus projetos!
+(e me contratar para ser estagiária também, hahaha)
 
 
